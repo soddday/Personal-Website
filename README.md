@@ -1,9 +1,5 @@
 # Personal-Website
 Personal Website
 
-
-
-name:
-
-
-email:
+name:liyuan wang
+email:wly567765@gmail.com
